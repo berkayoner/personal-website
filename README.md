@@ -12,6 +12,8 @@
     <li>jQuery Cookie <strong>v2.2.0</strong></li>
     <li>[be]Lazy <strong>v1.8.2</strong></li>
   </ul>
-  <br><br>
-  <blockquote>"Saklamak değil, paylaşmak olsun özün. Eleştirmek değil, çözümü göstermek olsun sözün. Yıkmakta değil, yapmakta olsun gözün. Saldırmak değil, sarılmaktır çözüm." <br><span>Osho</span></blockquote>🙏🏻
 </div>
+<br>
+<p>Canlı önizleme: https://htmlpreview.github.io/?https://github.com/berkayoner/personal-website/blob/main/index.html</p>
+<br><br>
+<blockquote>"Saklamak değil, paylaşmak olsun özün. Eleştirmek değil, çözümü göstermek olsun sözün. Yıkmakta değil, yapmakta olsun gözün. Saldırmak değil, sarılmaktır çözüm." <br><span>Osho</span></blockquote>🙏🏻
