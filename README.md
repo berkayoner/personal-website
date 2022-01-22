@@ -1,4 +1,3 @@
-<br>
 <h3>🚀 Tasarladığım, kodladığım ve kullanmaya başladığım kişisel web sitemin kaynak kodlarını paylaşıyorum.</h3>
 <br>
 <p>Son instagram gönderilerinin çekildiği photos.js dosyasında ajax url olarak instagram api veya özel bir servis kullanmak gerekir.</p>
