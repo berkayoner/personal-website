@@ -16,4 +16,4 @@
 <br>
 <a href="http://berkayoner.com.tr" target="_blank">Canlı önizleme</a>
 <br><br>
-<blockquote>"Saklamak değil, paylaşmak olsun özün. Eleştirmek değil, çözümü göstermek olsun sözün. Yıkmakta değil, yapmakta olsun gözün. Saldırmak değil, sarılmaktır çözüm." <br><span>Osho</span></blockquote>🙏🏻
+<blockquote><i>"Saklamak değil, paylaşmak olsun özün. Eleştirmek değil, çözümü göstermek olsun sözün. Yıkmakta değil, yapmakta olsun gözün. Saldırmak değil, sarılmaktır çözüm."</i> <br><b>Osho</b></blockquote>🙏🏻
